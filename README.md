@@ -4,7 +4,7 @@ Vendr is a full-featured e-commerce web application built using React. It showca
 
 ## Live Demo
 
-[Pending](http://www.example.com)
+[Pending](#)
 
 ## Technologies Used
 
