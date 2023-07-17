@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#vendr-logo {
+  height: 350px;
+  border-radius: 20px;
+}
+
+.welcome-text {
+  font-family: 'Gideon Roman', cursive;
+  font-family: 'Tsukimi Rounded', sans-serif;
 }
