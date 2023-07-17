@@ -39,10 +39,17 @@
 
 #vendr-logo {
   height: 350px;
-  border-radius: 20px;
+  border-radius: 50px;
 }
 
 .welcome-text {
   font-family: 'Gideon Roman', cursive;
   font-family: 'Tsukimi Rounded', sans-serif;
+}
+
+@media (max-width: 768px) {
+  #vendr-logo {
+    height: 200px;
+    border-radius: 50px;
+  }
 }
