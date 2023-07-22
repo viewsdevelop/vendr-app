@@ -4,7 +4,7 @@ Vendr is a full-featured e-commerce web application built using React. It showca
 
 ## Live Demo
 
-[See More](https://viewsdevelop.github.io/vendr-app/)
+[Coming Soon](https://viewsdevelop.github.io/vendr-app/)
 
 ## Technologies Used
 
