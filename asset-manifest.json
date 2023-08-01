@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/vendr-app/static/css/main.1ad83764.css",
-    "main.js": "/vendr-app/static/js/main.402dd65e.js",
+    "main.js": "/vendr-app/static/js/main.8111dd09.js",
     "static/js/787.0cf7bf71.chunk.js": "/vendr-app/static/js/787.0cf7bf71.chunk.js",
     "static/media/logo.svg": "/vendr-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vendr-app/index.html",
     "main.1ad83764.css.map": "/vendr-app/static/css/main.1ad83764.css.map",
-    "main.402dd65e.js.map": "/vendr-app/static/js/main.402dd65e.js.map",
+    "main.8111dd09.js.map": "/vendr-app/static/js/main.8111dd09.js.map",
     "787.0cf7bf71.chunk.js.map": "/vendr-app/static/js/787.0cf7bf71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ad83764.css",
-    "static/js/main.402dd65e.js"
+    "static/js/main.8111dd09.js"
   ]
 }
